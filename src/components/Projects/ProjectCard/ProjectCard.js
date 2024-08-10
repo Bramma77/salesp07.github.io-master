@@ -70,7 +70,10 @@ function ProjectCard() {
                   </a>
                 )}
                 {list.title === "VisDoc" && (
-                  <a className="btn1 SecondaryBtn1 btn-shadow">
+                  <a
+                    className="btn1 SecondaryBtn1 btn-shadow"
+                    href={list.appstore_url}
+                  >
                     <img className="imgs" src="./appstore.jpg" />
                   </a>
                 )}
