@@ -61,7 +61,7 @@ export const ProjectList = [
     img1: "/tile1.png",
     title: "Tiles Calculator ",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
+      "The tile calculator app is designed to help users accurately estimate the number of tiles required for various tiling projects.user can input dimensions of their project area.including length,width user can enter the size of the tiiles. The app calculates the total number of tiles needed for the project and calculates wastage of tiles.",
     tech_stack: ["React-Native"],
     github_url: "",
     demo_url: "https://jobdetective.onrender.com/",
