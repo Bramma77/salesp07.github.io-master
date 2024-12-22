@@ -1,6 +1,35 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/pay1.png",
+    img1: "/pay2.png",
+    img2: "/pay3.png",
+
+    title: "Adaptive Pay",
+    description:
+      "Adaptive Pay is a comprehensive employee management application designed to streamline and simplify HR processes for organizations. It offers a user-friendly interface for employees to manage their work-related information conveniently.Track daily attendance, view attendance history, and ensure accurate timekeeping.Submit, track, and manage leave applications seamlessly, with real-time status updates.View and download monthly payslips, ensuring transparency in salary details.Submit and track reimbursement claims, making it easier to handle work-related expenses.",
+    tech_stack: ["React Native"],
+    github_url:
+      "https://play.google.com/store/apps/details?id=com.visdoc&hl=en_US",
+    demo_url:
+      "https://play.google.com/store/apps/details?id=com.adaptive.pay&hl=en_IN&pli=1",
+    appstore_url: "https://apps.apple.com/sg/app/adaptive-pay/id1331820600",
+  },
+  {
+    img: "/awar1.png",
+    img1: "/aware2.png",
+    img2: "/aware3.png",
+
+    title: "Adaptive warehouse",
+    description:
+      "Adaptive Warehouse is a robust warehouse management application designed to optimize and streamline warehouse operations. It offers an intuitive interface and powerful tools to handle inventory, orders, and procurement with precision and ease. Maintain a real-time stock list, track inventory levels, and monitor stock movements to prevent shortages or overstocking.Simplify the picking process with clear instructions and item locations, ensuring accurate and efficient order preparation. Handle incoming and outgoing orders efficiently, with tools to track order status, prioritize dispatches, and ensure timely fulfillment",
+    tech_stack: ["React Native"],
+    github_url:
+      "https://play.google.com/store/apps/details?id=com.visdoc&hl=en_US",
+    demo_url: "",
+    appstore_url: "",
+  },
+  {
     img: "/vis1.png",
     img1: "/vis2.png",
     img2: "/vis3.png",
