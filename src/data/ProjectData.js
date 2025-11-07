@@ -3,12 +3,41 @@ export const ProjectList = [
   {
     img: "/Pu1-left.png",
     img1: "/Pu1-portrait.png",
-    img2: "/pay3.png",
+    img2: "/pu3-portrait.png",
+    img3: "/pu5-left.png",
 
     title: "Pudoz",
     description:
       "Developed and maintained two React Native mobile applications for goods delivery operations.Implemented real-time communication between customers and drivers using Socket.IO for instant order and delivery status updates.Integrated Google Maps API for live location tracking, route optimization, and distance calculation.Built modules for order booking, assignment, and delivery tracking, enhancing user experience and operational efficiency.Optimized UI components and app performance for smooth functionality on Android and iOS platforms.",
-    tech_stack: ["React Native"],
+    tech_stack: [
+      "React Native",
+      "Socket.Io",
+      "Firebase",
+      "GoogleMap",
+      "Payment Gateway",
+    ],
+    github_url:
+      "https://play.google.com/store/apps/details?id=com.visdoc&hl=en_US",
+    demo_url:
+      "https://play.google.com/store/apps/details?id=com.vehiclebookingapp&hl=en_IN",
+    appstore_url: "https://apps.apple.com/in/app/pudoz/id6746857106",
+  },
+  {
+    img: "/Pu11-left.png",
+    img1: "/Pu10-portrait.png",
+    img2: "/pu9-portrait.png",
+    img3: "/pu7-left.png",
+
+    title: "Pudoz Partner",
+    description:
+      "Developed and maintained two React Native mobile applications for goods delivery operations.Implemented real-time communication between customers and drivers using Socket.IO for instant order and delivery status updates.Integrated Google Maps API for live location tracking, route optimization, and distance calculation.Built modules for order booking, assignment, and delivery tracking, enhancing user experience and operational efficiency.Optimized UI components and app performance for smooth functionality on Android and iOS platforms.",
+    tech_stack: [
+      "React Native",
+      "Socket.Io",
+      "Firebase",
+      "GoogleMap",
+      "Payment Gateway",
+    ],
     github_url:
       "https://play.google.com/store/apps/details?id=com.visdoc&hl=en_US",
     demo_url:
