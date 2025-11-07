@@ -27,10 +27,10 @@ function About() {
               professional journey includes working with
               <strong>Transvelocity Logistics Pvt. Ltd</strong> (1 year),
               <strong>Adaptive BizApp Systems</strong> (4 months), and
-              <strong>Riyadvi Software Technologies Pvt. Ltd</strong> (2 years).
-              I’ve gained hands-on experience in developing scalable mobile
-              solutions, integrating APIs, implementing real-time communication,
-              and optimizing app performance.
+              <strong>Riyadvi Software Technologies Pvt. Ltd</strong> (2.1
+              years). I’ve gained hands-on experience in developing scalable
+              mobile solutions, integrating APIs, implementing real-time
+              communication, and optimizing app performance.
             </ScrollAnimation>
 
             <br />
