@@ -17,7 +17,7 @@ export const ProjectList = [
       "Payment Gateway",
     ],
     github_url:
-      "https://play.google.com/store/apps/details?id=com.visdoc&hl=en_US",
+      "https://play.google.com/store/apps/details?id=com.vehiclebookingapp&hl=en_IN",
     demo_url:
       "https://play.google.com/store/apps/details?id=com.vehiclebookingapp&hl=en_IN",
     appstore_url: "https://apps.apple.com/in/app/pudoz/id6746857106",
@@ -39,10 +39,10 @@ export const ProjectList = [
       "Payment Gateway",
     ],
     github_url:
-      "https://play.google.com/store/apps/details?id=com.visdoc&hl=en_US",
+      "https://play.google.com/store/apps/details?id=com.PudozPartner&hl=en_IN",
     demo_url:
-      "https://play.google.com/store/apps/details?id=com.vehiclebookingapp&hl=en_IN",
-    appstore_url: "https://apps.apple.com/in/app/pudoz/id6746857106",
+      "https://play.google.com/store/apps/details?id=com.PudozPartner&hl=en_IN",
+    appstore_url: "https://apps.apple.com/in/app/pudoz-partner/id6748946890",
   },
   {
     img: "/pay1.png",
@@ -54,9 +54,9 @@ export const ProjectList = [
       "Adaptive Pay is a comprehensive employee management application designed to streamline and simplify HR processes for organizations. It offers a user-friendly interface for employees to manage their work-related information conveniently.Track daily attendance, view attendance history, and ensure accurate timekeeping.Submit, track, and manage leave applications seamlessly, with real-time status updates.View and download monthly payslips, ensuring transparency in salary details.Submit and track reimbursement claims, making it easier to handle work-related expenses.",
     tech_stack: ["React Native"],
     github_url:
-      "https://play.google.com/store/apps/details?id=com.visdoc&hl=en_US",
+      "https://play.google.com/store/apps/details?id=com.adaptive.pay&hl=en_IN",
     demo_url:
-      "https://play.google.com/store/apps/details?id=com.adaptive.pay&hl=en_IN&pli=1",
+      "https://play.google.com/store/apps/details?id=com.adaptive.pay&hl=en_IN",
     appstore_url: "https://apps.apple.com/sg/app/adaptive-pay/id1331820600",
   },
   {
