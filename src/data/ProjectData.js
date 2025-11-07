@@ -23,8 +23,8 @@ export const ProjectList = [
     appstore_url: "https://apps.apple.com/in/app/pudoz/id6746857106",
   },
   {
-    img: "/Pu11-left.png",
-    img1: "/Pu10-portrait.png",
+    img: "/pu11-left.png",
+    img1: "/pu10-portrait.png",
     img2: "/pu9-portrait.png",
     img3: "/pu7-left.png",
 
