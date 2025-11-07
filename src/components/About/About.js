@@ -21,49 +21,60 @@ function About() {
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
               Hello! My name is <strong>Brammadevan</strong>. I'm originally
-              from Trichy. I have over <strong>3.5 years of experience</strong>{" "}
-              as a React Native Developer, working on Android and iOS
-              applications. My professional journey includes working with{" "}
-              <strong>Transvelocity Logistics Pvt. Ltd</strong> for 1 year,
-              <strong>Adaptive BizApp Systems</strong> for 4 months, and
-              <strong>Riyadvi Software Technologies Pvt. Ltd</strong> for 2.1
-              years. I have extensive experience in developing and maintaining
-              cross-platform mobile applications with rich functionality and
-              seamless performance.
+              from Trichy. I have <strong>3.6 years of experience</strong> as a
+              React Native Developer, building and maintaining cross-platform
+              mobile applications for both Android and iOS platforms. My
+              professional journey includes working with
+              <strong>Transvelocity Logistics Pvt. Ltd</strong> (1 year),
+              <strong>Adaptive BizApp Systems</strong> (4 months), and
+              <strong>Riyadvi Software Technologies Pvt. Ltd</strong> (2 years).
+              I’ve gained hands-on experience in developing scalable mobile
+              solutions, integrating APIs, implementing real-time communication,
+              and optimizing app performance.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              My journey into the world of technology began with a passion for
-              <strong>problem-solving</strong> and creating meaningful digital
-              experiences. I pursued a{" "}
+              My passion for technology and problem-solving led me to pursue a
               <strong>Bachelor’s degree in Computer Science Engineering</strong>
-              , where I built a strong foundation in programming and application
-              development. During my studies, I worked on several exciting
-              projects, including
-              <strong>VisDoc</strong> — an online doctor appointment booking
-              app,
-              <strong>Laxmi Astro AI</strong> — an astrology consultation
-              platform,
-              <strong>Srivaari Builders</strong> — a material and manpower
-              management app,
-              <strong>Alldine</strong> — a food ordering app, and a
-              <strong>Tile Estimation app</strong> used for measurement and cost
-              estimation.
+              . During my academic journey, I developed a strong interest in
+              mobile and web development, which grew into a full-time career.
+              Over the years, I’ve contributed to several exciting projects such
+              as
+              <strong>Pudoz</strong> (goods delivery operations app),
+              <strong>Adaptive Pay</strong> (HR and attendance management
+              system),
+              <strong>Adaptive Warehouse</strong> (inventory and logistics
+              management), and multiple in-house and client projects at Riyadvi
+              Software Technologies.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within teams toward shared goals has been
-              one of the most rewarding aspects of my career. I enjoy
-              translating ideas into scalable and efficient mobile solutions
-              while ensuring an excellent user experience. I’m always eager to
-              explore new technologies and continue growing in the field of{" "}
-              <strong>web and cross-platform mobile development</strong>.
+              I’ve also been part of diverse projects like
+              <strong>VisDoc</strong> (doctor appointment scheduling app),
+              <strong>Laxmi Astro AI</strong> (astrology consultation app),
+              <strong>Srivaari Builders</strong> (material and manpower
+              management app),
+              <strong>Alldine</strong> (food ordering and delivery app), and the{" "}
+              <strong>Tile Estimation App</strong> for measurement and cost
+              calculations. Each project helped me strengthen my expertise in
+              React Native, TypeScript, Redux, and API integrations.
+            </ScrollAnimation>
+
+            <br />
+            <br />
+
+            <ScrollAnimation animateIn="fadeInLeft">
+              Collaborating with cross-functional teams and solving complex
+              problems has been one of the most fulfilling aspects of my career.
+              I’m passionate about creating user-focused, high-performance
+              mobile applications and constantly exploring new tools and
+              frameworks to stay current with industry trends.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
