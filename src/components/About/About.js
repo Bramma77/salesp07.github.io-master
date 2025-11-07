@@ -21,38 +21,49 @@ function About() {
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
               Hello! My name is <strong>Brammadevan</strong>. I'm originally
-              from Trichy. I have 2 years of experience as React-Native
-              Developer in Riyadvi Software Technologies pvt.Ltd. I have worked
-              extensively with React-Native developing and maintaining
-              cross-Platform mobile applications with intricate functionality
+              from Trichy. I have over <strong>3.5 years of experience</strong>{" "}
+              as a React Native Developer, working on Android and iOS
+              applications. My professional journey includes working with{" "}
+              <strong>Transvelocity Logistics Pvt. Ltd</strong> for 1 year,
+              <strong>Adaptive BizApp Systems</strong> for 4 months, and
+              <strong>Riyadvi Software Technologies Pvt. Ltd</strong> for 2.1
+              years. I have extensive experience in developing and maintaining
+              cross-platform mobile applications with rich functionality and
+              seamless performance.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              My journey into the world of technology began with a strong
-              passion for problem-solving, which led me to pursue the Computer
-              Systems Technology program. Despite its challenges, I remained
-              determined and forged lasting friendships that supported me
-              throughout this demanding program. Throughout my studies at BE
-              computer science, I had the opportunity to engage in fascinating
-              projects. Notably, I contributed to the development of the VisDoc-
-              online doctor appointment booking app and Laxmi Astro
-              Ai,construction app,Alldine-food ordering app, Tiles Calculator
-              app projects that garnered recognition from my colleagues,
-              instructors, and clients alike.
+              My journey into the world of technology began with a passion for
+              <strong>problem-solving</strong> and creating meaningful digital
+              experiences. I pursued a{" "}
+              <strong>Bachelor’s degree in Computer Science Engineering</strong>
+              , where I built a strong foundation in programming and application
+              development. During my studies, I worked on several exciting
+              projects, including
+              <strong>VisDoc</strong> — an online doctor appointment booking
+              app,
+              <strong>Laxmi Astro AI</strong> — an astrology consultation
+              platform,
+              <strong>Srivaari Builders</strong> — a material and manpower
+              management app,
+              <strong>Alldine</strong> — a food ordering app, and a
+              <strong>Tile Estimation app</strong> used for measurement and cost
+              estimation.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective
-              has been an incredibly rewarding and unique experience for me. I
-              am eager to continue exploring exciting projects in the future,
-              with a particular interest in web development and cross-platform
-              mobile development.
+              Working collaboratively within teams toward shared goals has been
+              one of the most rewarding aspects of my career. I enjoy
+              translating ideas into scalable and efficient mobile solutions
+              while ensuring an excellent user experience. I’m always eager to
+              explore new technologies and continue growing in the field of{" "}
+              <strong>web and cross-platform mobile development</strong>.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
