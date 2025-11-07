@@ -2,7 +2,7 @@
 export const ProjectList = [
   {
     img: "/Pu1-left.png",
-    img1: "/Pu6-portrait.png",
+    img1: "/pu6-portrait.png",
     img2: "/pu3-portrait.png",
     img3: "/pu5-left.png",
 

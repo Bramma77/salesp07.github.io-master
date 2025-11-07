@@ -72,15 +72,17 @@ function ProjectCard() {
                     <img className="imgs" src="./play.png" />
                   </a>
                 )}
-                {list.title === "VisDoc" ||
-                  (list.title === "Adaptive PAy" && (
-                    <a
-                      className="btn1 SecondaryBtn1 btn-shadow"
-                      href={list.appstore_url}
-                    >
-                      <img className="imgs" src="./appstore.jpg" />
-                    </a>
-                  ))}
+                {(list.title === "VisDoc" ||
+                  list.title === "Pudoz" ||
+                  list.title === "Pudoz Partner" ||
+                  list.title === "Adaptive PAy") && (
+                  <a
+                    className="btn1 SecondaryBtn1 btn-shadow"
+                    href={list.appstore_url}
+                  >
+                    <img className="imgs" src="./appstore.jpg" />
+                  </a>
+                )}
 
                 {/* {list.github_url.length > 0 && (
                   <a
