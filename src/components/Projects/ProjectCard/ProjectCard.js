@@ -63,7 +63,7 @@ function ProjectCard() {
                   list.title === "AllDine" ||
                   list.title === "Laxmi Astro Ai" ||
                   list.title === "Pudoz" ||
-                  list.title === "Pudoz Partners" ||
+                  list.title === "Pudoz Partner" ||
                   list.title === "Adaptive Pay") && (
                   <a
                     className="btn1 SecondaryBtn1 btn-shadow"
